@@ -1,0 +1,10 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# my scripts
+test*
+X-*
+3.longestsubstring.js
+substring-concatenation.js
