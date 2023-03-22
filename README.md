@@ -1,4 +1,4 @@
-# Alorithms
+# Algorithms
 
 ## Description
 
